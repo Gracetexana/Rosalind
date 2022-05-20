@@ -3,10 +3,10 @@
 #Return: A consensus string and profile matrix for the collection. (If several possible consensus strings exist, then you may return any one of them.)
 
 with open(".\\16_original.txt") as f:
-    l = list(map(lambda x: x.strip().upper(), f.readlines()[1::2])) #THIS PART NEEDS TO BE FIXED AS THE FILE USES MULTIPLE LINES FOR ONE DNA STRAND
-print(l)
+    l = list(f.read().replace("\n","").split(">"))
+    l = list(map(lambda x: x[13:], l))
+    del l[0]
 positions = list(zip(*l)) #group bases by position in DNA strings
-print(positions)
 d = {"A":[],
      "C":[],
      "G":[],
