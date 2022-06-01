@@ -1,7 +1,7 @@
 # Rosalind
 ## Practicing Python with a focus on genetics
-I am an aspiring data scientist working on building up my portfolio. My first of many projects was simply to get a grasp of basic coding in Python. With the help of Rosalind, "a platform for learning bioinformatics and programming through problem solving," (https://rosalind.info/problems/locations/) I was able to do so. I plan to explore Python packages next--specifically those that are frequently used by data scientists.
-I am interested in working with biological data with an eye towards global climate resiliency; this is why I chose to learn through Rosalind, which has a focus on biological data. However, moving forward, I plan to work with data that I feel is more applicable to my field. My long term goal is to work in biotech in order to address environmental issues.
+I am an aspiring data scientist working on building up my portfolio. My first of many projects was simply to get a grasp of basic coding in Python. With the help of Rosalind, "a platform for learning bioinformatics and programming through problem solving," (https://rosalind.info/problems/locations/) I was able to do so. I plan to explore Python packages next--specifically those that are frequently used by data scientists.  
+I am interested in working with biological data with an eye towards global climate resiliency; this is why I chose to learn through Rosalind, which has a focus on biological data. However, moving forward, I plan to work with data that I feel is more applicable to my field. My long term goal is to work in biotech in order to address environmental issues.  
 ## Individual Descriptions
 ### Counting DNA Nucleotides
 Given: A DNA string s of length at most 1000 nt.  
