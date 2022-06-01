@@ -3,24 +3,26 @@
 I am an aspiring data scientist working on building up my portfolio. My first of many projects was simply to get a grasp of basic coding in Python. With the help of Rosalind, "a platform for learning bioinformatics and programming through problem solving," (https://rosalind.info/problems/locations/) I was able to do so. I plan to explore Python packages next--specifically those that are frequently used by data scientists.  
 I am interested in working with biological data with an eye towards global climate resiliency; this is why I chose to learn through Rosalind, which has a focus on biological data. However, moving forward, I plan to work with data that I feel is more applicable to my field. My long term goal is to work in biotech in order to address environmental issues.  
 ## Individual Descriptions
+### Python Village
+Rosalind walked me through 6 project geared towards learning Python before giving me biological data to work with and analyze in my own way.  
 ### Counting DNA Nucleotides
 Given: A DNA string s of length at most 1000 nt.  
 Return: Four integers (separated by spaces) counting the respective number of times that the symbols 'A', 'C', 'G', and 'T' occur in s.  
-[My Code](7_nt.py)  
-[Sample Data that I Worked With](7_original.txt)  
+[My Code](07_nt.py)  
+[Sample Data that I Worked With](07_original.txt)  
 [Problem Description in Rosalind](https://rosalind.info/problems/dna/)  
 ### Transcribing DNA into RNA
 Given: A DNA string t having length at most 1000 nt.  
 Return: The transcribed RNA string of t.  
-[My Code](8_transcribe.py)  
-[Sample Data that I Worked With](8_original.txt)  
-[Results from Sample Data](8_results)  
+[My Code](08_transcribe.py)  
+[Sample Data that I Worked With](08_original.txt)  
+[Results from Sample Data](08_results)  
 [Problem Description in Rosalind](https://rosalind.info/problems/rna/)  
 ### Complementing a Strand of DNA
 Given: A DNA string s of length at most 1000 bp.  
 Return: The reverse complement s<sup>c</sup> of s.  
-[My Code](9_complement.py)  
-[Sample Data that I Worked With](9_original.txt)  
+[My Code](09_complement.py)  
+[Sample Data that I Worked With](09_original.txt)  
 [Problem Description in Rosalind](https://rosalind.info/problems/revc/)  
 ### Rabbits and Recurrence Relations
 Given: Positive integers n≤40 and k≤5.  
