@@ -1,7 +1,7 @@
 #Given: A DNA string s of length at most 1000 bp.
 #Return: The reverse complement sc of s.
 
-s = open(".\\9_original.txt","r").read().strip()
+s = open(".\\09_original.txt","r").read().strip()
 c = ""
 for x in s:
     if x == "A":
